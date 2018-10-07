@@ -4358,7 +4358,7 @@
         <use y="736.5" x="129.697666" xlink:href="#glyph18-28"/>
         <use y="736.5" x="133.148438" xlink:href="#glyph18-18"/>
     </g>
-    <a xlink:title="Открыть CV на Английском языке" xlink:href="http://commandr.stream/cv.en" target="_blank">
+    <a xlink:title="Открыть CV на Английском языке" xlink:href="http://commandr.stream/cv.en/" target="_blank">
         <g>
             <g fill="#4b6c91">
                 <use y="781.5" x="212.988281" xlink:href="#glyph0-1"/>
@@ -4421,7 +4421,7 @@
     <g fill="#4b6c91">
         <use y="768.75" x="204.292969" xlink:href="#glyph1-1"/>
     </g>
-    <a xlink:title="Открыть CV в PDF с Web просмотром" xlink:href="http://commandr.stream/cv.ru.pdf.view" target="_blank">
+    <a xlink:title="Открыть CV в PDF с Web просмотром" xlink:href="http://web.commandr.stream/cv.ru.pdf.view" target="_blank">
         <g>
             <g fill="#4b6c91">
                 <use y="768.75" x="151.394531" xlink:href="#glyph0-1"/>
