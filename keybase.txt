@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/commandr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://commandr.stream
+  * I am commandr (https://keybase.io/commandr) on keybase.
+  * I have a public key with fingerprint 3A2D 77D5 72D9 729A 0A82  C26D 3F14 B3B7 4890 C15F
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016b6056a0f3c49b138e6ec94c2be4a8b2f88b0f941be8619d92d9a05ecc7024610a",
+      "fingerprint": "3a2d77d572d9729a0a82c26d3f14b3b74890c15f",
+      "host": "keybase.io",
+      "key_id": "3f14b3b74890c15f",
+      "kid": "01016b6056a0f3c49b138e6ec94c2be4a8b2f88b0f941be8619d92d9a05ecc7024610a",
+      "uid": "79a4b94a3ceb72b9d2dd12b684619e19",
+      "username": "commandr"
+    },
+    "service": {
+      "hostname": "commandr.stream",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1545508062,
+  "expire_in": 157680000,
+  "prev": "e010b847dcfc22d22d56ce949d5e1d2fccf10b1f7cfc2d49da7179aeafee9577",
+  "seqno": 85,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owNCWmg5MUFZJlNZgYZkjgAB1n///v////+f//u/3zr//+////+///2/f7f/7/7/
+7nf+9f/AAuuOq1qHdA5GIaExo0TJhqejUxMJtBMEzKGEDBo1MEMJkzRMDTImjaR5
+Jo9AnojIaA02KYTTJvSNTaBqZimRkw2oDTI9CnogAANDI0AANABoaAA0ABoHqAaB
+oNBoAAAAA0NAaAaA0BoAAA0AABoAAGqZNABNKeZNT1NGSbSepoAA0yAAAAeoANA0
+AANqAAAAaAAAaAAAAGgAAAAAA1NCp4NU9FPU9TR6gHqABo0eU0ABkAMmgYmjEaAN
+B6j1AZAAZBppoAaDIABkAGmjQaAAGgNNABIkQLf5nypLUWxMmY9G2rD/jhlAnI8J
+EStuK3hBm6hMDG9cy9VKOcw1ZZmSpw+8dmAZUnzc0QP8Dii++cYrJmV2XzOh0yId
+8ZiImFPh/AF8gyfiBo40CF3MOeSHLLSMlkmdfNzhTjxMHaaEw2YniG1D/bJWSIoN
+3ZBbpoQSOcxHI5yMCIwJM8dl7AobpvJ0sLB1MvA68V+F8H0uPIUtnd6vKAPyCNaR
+zR++qjcyfevam+Z002oLTQuAkw+CzqEMgnwOM8GjLiJuKQcQ4nwsIttwyYumB6if
+DRUWVBVGSFDUMpHxmgmuCU/6yVg2iIIVTMoG1wyJZwHIWYKsBsKQH/BpFNrvIYKC
+GToCBpftjYYMBoEu6TO0bYWBG4AqWg+6NoWdDs24+YICByVVhqwQ5FcYKtS4IUCY
+dCQyA47aQ5C4Yadg6aYhW3QbC5NAi9TsA1sIDcEbkPLJoK1E1U1ibQ+eOPQAGC3s
+gCClCpaT88gAfi8rQbhyQ2QmDECkM8tBhC1OTGFGx5dAH5rbSQ+hK0nV8FHgHRR8
+Xd5hyL0ZAjL+jBQiAhlkoAghVSj0zOIDIUcKDgRsK+ElAxqUUTo0NJbp79MiQmsC
+sCQGAD8A0RBB6RlGTsQkAgu5AWQGUnIEYjnmK4ZVfFpJxGyFWVJ2IWAEF6yTGPI/
+Zq4YDxUKJmMKISqFEdPqBeGJcSrwKDAr9SvPHkllelVjJHWGtQQ/Edduonw4Uo7y
+UpicS87RypI0x+5SaBA8gODrjz2oEyZIEDt2LQZ//fA0RVuMcagDPv7HUnJ95Ei1
+H9p6WmhlY7ScYIkJtSHOsGhsqEmSIREyR/lc/yrU/REqEL5lZilYbLFWRuhqSbXQ
+TJfPi3ezQhRy5/sVok5PPr+PNTL8UP6d/eFZztbeuCmyuSMB2XHT/siIDAizrTSr
+Lgs2JlAonipflt8lXC/hOQB55WyLjc9bvm9JPFCRtHnTiv+vogJP8hduJFj8f09B
+OJEmrUdMLoBQOZB4qcMzTInTIo8clSgI9EBKJZrXyHlF5fCRUNGHl01ffLR+IrkV
+UntExqX9qwWn49GzJqlNtIIKQoCN1vQdLDg+1MZICMxMz67HgVJDhSYkGgvypkxv
+bqHsaiSojyTQjDCWIBOqJq5WxPdLYinVQvI+4gs2UzPndS+al3MdgN4Pv6JLDcZv
+AyS1QjtYP2sJOIMnl9EFNfkIKOQamiVELpvBAjQD4o0oP8KwfsY2eINdcPBIWC8Z
+2yk18Pf0JQL/miNSUH5bDF8SIik+3ziOMXckU4UJCBhmSOA=
+=XroY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/commandr
+
+==================================================================
