@@ -62,8 +62,8 @@ $('#SelectMenuEmbed').selectMenu({
         position : 'center',
         showField : 'content',
         keyField : 'id',
-        title : '<div align="left"><b>Andrew Bednoff :: Software Developer CV</b></div>',
-        data : MenuData
+        title : '<div align="left" class="menu"><b>Andrew Bednoff :: Software Developer CV</b></div>',
+        data : MenuData,
 });
 
 $('#info').click(function(){
