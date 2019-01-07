@@ -1,11 +1,11 @@
-image: debian:unstable
+image: debian:unstable-slim
 
 pages:
     stage: deploy
     script:
         - date >> ./gitlab.ci-cd.log
         - uname -a >> ./gitlab.ci-cd.log
-        - lsb_release -a >> ./gitlab.ci-cd.log
+#       - lsb_release -a >> ./gitlab.ci-cd.log
         - mkdir .public
         - cp -r * .public
         - mv .public public
