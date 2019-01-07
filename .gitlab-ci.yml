@@ -1,0 +1,17 @@
+image: debian:unstable
+
+pages:
+    stage: deploy
+    script:
+        - date >> ./gitlab.ci-cd.log
+        - uname -a >> ./gitlab.ci-cd.log
+        - lsb_release -a >> ./gitlab.ci-cd.log
+        - mkdir .public
+        - cp -r * .public
+        - mv .public public
+    artifacts:
+        paths:
+            - public
+    only:
+        - pages
+
