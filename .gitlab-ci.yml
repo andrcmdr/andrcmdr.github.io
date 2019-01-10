@@ -1,14 +1,19 @@
-image: debian:unstable-slim
+image: debian:unstable
+# image: debian:unstable-slim
 
 pages:
     stage: deploy
     script:
+#       - mkdir -vp ./.public
+#       - cp -vr -t ./.public *
+#       - mv ./.public ./public
+#       - time /usr/bin/time -v -o ./aot.log bash ./.gitlab-ci.sh 2>&1 | grep -iPn --color "" | tee ./deploy.log & disown
+        - time /usr/bin/time -v -o ./aot.log bash ./.gitlab-ci.sh 2>&1 | grep -iPn --color "" | tee ./deploy.log
         - date >> ./gitlab.ci-cd.log
         - uname -a >> ./gitlab.ci-cd.log
 #       - lsb_release -a >> ./gitlab.ci-cd.log
-        - mkdir .public
-        - cp -r * .public
-        - mv .public public
+        - echo ; cat ./deploy.log ./aot.log >> ./gitlab.ci-cd.log
+        - cp -vr -t ./public ./deploy.log ./aot.log ./gitlab.ci-cd.log
     artifacts:
         paths:
             - public
