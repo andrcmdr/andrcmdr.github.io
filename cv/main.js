@@ -32,7 +32,7 @@ var MenuData = [
         {content:'<i class="fa fa-envelope-o"></i> E-mail', url:'mailto:andrew@commandr.stream?subject=From%20Resume-CV'},
         {content:'<i class="fa fa-phone"></i> Mobile #', url:'callto:+996709773399'},
         {content:'<i class="fa fa-key"></i> KeyBase', url:'https://keybase.io/commandr'},
-        {content:'<i class="fa fa-key"></i> GNUPG/PGP Public Key', url:'https://commandr.stream/commandr.pubkey.pem'},
+        {content:'<i class="fa fa-key"></i> GNUPG/PGP Public Key', url:'https://commandr.stream/commandr.pubkey.pem.asc'},
         {content:'<i class="fa fa-key"></i> SSH Public Key', url:'https://commandr.stream/commandr.pubkey.ssh'},
         {content:'<i class="fa fa-telegram"></i> Telegram', url:'https://telegram.me/andrcmdr'},
         {content:'<i class="fa fa-paper-plane-o"></i> Technologic Channel', url:'https://telegram.me/technologique'},
