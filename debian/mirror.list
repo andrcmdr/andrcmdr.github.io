@@ -1,0 +1,3 @@
+http://ftp.debian.org/debian/
+http://ftp.debian.org/debian/       priority:1 type:index arch:amd64 arch:i386 arch:all
+http://deb.debian.org/debian/       priority:1 type:deb arch:amd64 arch:i386 arch:all
